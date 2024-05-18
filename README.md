@@ -29,6 +29,8 @@ Common controls:
 
 Escape - restart the game( only when you have already lost)
 
+
+Link for the Executable(.exe) file : https://1drv.ms/f/s!AmVyn489JM37izucKxRPgY7Z0M3P?e=gVE572
 Wait for updates..
 
 Have Fun!!!!!!!!

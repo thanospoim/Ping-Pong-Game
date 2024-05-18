@@ -29,5 +29,7 @@ Common controls:
 
 Escape - restart the game( only when you have already lost)
 
+Wait for updates..
+
 Have Fun!!!!!!!!
 
